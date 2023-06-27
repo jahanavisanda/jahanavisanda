@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jahanavisanda
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in working on Data Analysis,Machine Learning projects
 - 🌱 I’m currently learning on dealing with humoungous amounts of data
 - 💞️ I’m looking to collaborate on any projects related to data science
 - 📫 How to reach me ..jahanavisanda30@gmail.com
